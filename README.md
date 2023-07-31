@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tanwendong66
+- 👀 I’m interested in creating scalable, efficient web applications.
+- 🌱 Software Engineering student mastering Elixir. 
